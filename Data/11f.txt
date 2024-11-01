@@ -1,0 +1,6 @@
+"Blockchain in healthcare—finally, patient records more secure than my online shopping history!"
+
+Now for the feedback:
+
+Good structure: You’ve covered the key aspects—applications, benefits, and obstacles—effectively. I appreciate your clear explanation of how blockchain improves data security and traceability in the healthcare sector.
+Next step: In the section on obstacles, you could add a real-world example where scalability or regulatory issues hindered blockchain adoption in healthcare. This would help ground your points and make the argument more relatable. Nice job overall!

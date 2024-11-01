@@ -1,0 +1,6 @@
+"AI diagnosing eye diseases and creating personalized treatment plans—soon doctors might be prescribing algorithms instead of aspirin! Let's just hope the robots keep their bedside manners."
+
+Now for the feedback:
+
+Strong argument: You’ve provided clear and relevant examples of AI and ML in healthcare, from diagnostic accuracy improvements to personalized treatment plans. The examples like Google’s DeepMind and IBM Watson give the discussion a real-world grounding.
+To enhance: Adding a real-world case study of how a specific healthcare institution has successfully integrated AI/ML to improve patient outcomes could strengthen your discussion further. This would help to show the tangible benefits of these technologies in practice. Great job overall!

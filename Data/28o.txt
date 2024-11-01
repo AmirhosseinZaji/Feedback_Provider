@@ -1,0 +1,127 @@
+
+
+
+
+Embracing Change: Essential Factors to Achieve Featherlite’s Digital Transformation
+
+Astha Jatinkumar Patel (2234665)
+University Canada West
+CMPT 641: Digital Transformation (HBD-SUMMER24-17)
+Amirhossein Zaji
+July 17th, 2024
+
+
+
+
+
+
+
+
+
+
+
+Table of Contents
+Introduction	3
+The Current Porter Value- Chain:	3
+Digital Transformation Strategy:	4
+Improvements or Changes in Value Chain Activities:	5
+Addressing the change management aspect of the digital transformation	5
+Change Management Model	6
+Importance of Change Management in The Context of Featherlite’s Digital Transformation:	7
+Conclusion:	8
+References	8
+
+
+
+
+
+
+
+
+
+
+
+
+Introduction
+Featherlite is a fast-growing furniture manufacturing organization; the organization should strive to achieve a sustainable vision and incorporate the technologies in its operation. This is well captured in the strong value chain systems it displays, which puts a lot of premium on the complexity of the firm’s primary and support activities. Thus, with the further development of the concept of the work-from-home furniture and transitioning to the usage of more complex digital technologies, change management becomes important for proper implementation of the change.
+The Current Porter Value- Chain:
+Primary Activities:
+1. Inbound logistics
+Raw Material Procurement: Featherlite source raw materials locally to help the local vendors grow with focus on the "Make in India" movement (The Knowledge Review,2024).
+2. Operations:
+Manufacturing and Quality Control: The main area of competence for Featherlite is the manufacturing of new office furniture solutions at a lower cost. The capacities consist in the manufacturing of 40000 chairs and 12000 workplaces per month with value for money in mind (The Knowledge Review,2024).
+3. Outbound Logistics:
+Distribution and Delivery: Featherlite has a direct and franchisee office base across 66 locations in India (Featherlite Furniture,n.d.). They manage extensive outbound logistics, catering to bulk furniture requirements of large organizations across the country.
+4. Marketing and Sales:
+Product Customization: The company stands out for its expertise in creating customized designs to address specific customer needs, focusing on ergonomic and safety features.
+Diverse Retail and Online Presence: Featherlite has a widespread offline presence and has recently expanded to encompass the online market with their "featherlitestore.com" platform, offering work-from-home furniture collections.
+5. Service: 
+Featherlite's post-sales service approach revolves around ensuring total customer satisfaction by not only meeting but surpassing expectations, prioritizing employee well-being through ergonomic design and safety measures, and addressing evolving safety guidelines for office spaces.
+Support Activities:
+1. Infrastructure:
+Factory Construction: Featherlite's sustainable factory construction with over 70% recyclable materials emphasizes an infrastructure aligned with sustainability goals (Featherlite Furniture,n.d.).
+Energy Management: The net zero carbon positive production through rooftop solar installations demonstrates a commitment to energy efficiency as part of its infrastructure strategy (Featherlite Furniture, n.d.).  
+2. Human Resource Management: 
+By focusing on creating tailored solutions, promoting comfort, and enhancing workplace safety, Featherlite underscores its commitment to providing comprehensive support that enhances the work environment for individuals and organizations, fostering productivity and contentment.  
+3. Procurement:
+Rapidly Renewable Components: Incorporating rapidly renewable materials and ensuring more than 40% of materials are rapidly renewable showcases a sustainable approach to procurement decisions (Featherlite Furniture, n.d.).
+4. Technological Development:
+Lifecycle Thinking and Modularity: Emphasizing modularity in design, along with a focus on upgrading, modifying, and recycling products, reflects the integration of sustainability into the company's technological development strategy.  
+Digital Transformation Strategy: 
+Introducing IoT and AI technologies can transform Featherlite’s value chain activities and lead to increased operational efficiencies, better drive customer satisfaction, enable managerial decision-making and result in overall, superior business performance in today’s world of digital disruption.
+Improvements or Changes in Value Chain Activities:
+Inbound logistics: IoT sensors can be used to track the position of raw material in real time, thus ordering when necessary. AI algorithms can analyze historical data for accurate demand prediction, optimizing procurement schedules. 
+Operation: IoT-equipped machinery can enable predictive maintenance and performance monitoring, with AI-driven quality control systems ensuring consistent high-quality output (Praxie, n.d.). 
+Outbound logistics: IoT devices in delivery vehicles could track locations, while AI algorithms optimize warehouse operations for efficient order fulfillment. 
+Marketing communication and selling: IoT may collect customer engagement insights, so products may be recommended based on these findings, and AI-based customer relationship management improves the level of customization. 
+Service: Smart Customer Feedback technology gathers real time feedback while IOT sales support through 24/7 artificial intelligence chatbots. 
+Support activities: 
+Infrastructure: IoT sensors optimize energy consumption, and AI algorithms recommend energy-saving strategies. 
+Human resource management: IoT devices monitor employee well-being and workspace conditions, and AI-based talent management systems enhance employee engagement and retention. 
+Procurement: IoT sensors ensure real-time tracking of raw material shipments for transparency, while AI conducts predictive supplier performance analysis to optimize procurement decisions.
+Addressing the change management aspect of the digital transformation, Featherlite could introduce strategies such as:
+Conducting thorough communication: 
+Forces that drive fear of change in the workforce must be managed by ensuring that there is effective and timely communication outlining the rationale for the changes, their advantages, and the process of adopting them to the workforce. 
+Training and support: 
+Conducting a major training campaign and offering a wide range of support services to the employees, so that they would clearly understand the changes and be prepared for them (Praxie, n.d.). 
+Encouraging participation: 
+It is advisable to involve the employees in the decision and frequently seek their input to minimise those alterations’ impact. 
+Highlighting the positives: 
+Cultivating a message that can also focus on the advantages that new technologies bring, how they can make work activities more effective and enhance people’s attitudes to work. 
+Developing a change management team: 
+It is necessary to have a special staff that would be responsible for the resolution of various worries expressed by employees as well as for the explanation of all the changes that are going to take place shortly. 
+These measures can largely decrease the employees’ concern regarding change and foster the successful digital transformation. 
+Change Management Model
+Based on Featherlite’s values and objectives, the best change management model is the ADKAR model. Awareness, desire, knowledge, ability, and reinforcement are the abbreviated forms of ADKAR model, which is useful when dealing with organizational change management.
+Awareness: 
+Featherlite must communicate all change policies to all employees especially those that affect integration of new technology in different operations. It is best that such awareness should be thorough, and the manager clearly outline the rationale for the change. 
+Desire: 
+Community discusses that it is important to create a desire towards change within an organisation. Employees should be aware of the advantages of existing such technological enhancements; in productivity, convenience for the customers, and a means of bettering the environment. 
+Knowledge: 
+Featherlite need to give intensive training and information sharing so that the employees can be made aware of these new technologies and how they can be handled appropriately. It was going to entail awareness creation on how to operate on smart IoT sensors, AI and many other technological interventions. 
+Ability: 
+Workers must have the capacity which enables them to deliver the change process as has been planned. Featherlite should stand by them during this transition, provide advice, technical help, and guarantee that available support is sufficient. 
+Reinforcement: 
+One of the main ideas of such training mode is stabilisation and constant repetition of the new practices to make them permanent (Rios,2023). Informal and formal feedback will be given, progress checked, and successes involving the changes noted to ensure that the changes are become the new organizational standard. 
+ With the use of ADKAR model, Featherlite can proactively approach the change that is required for the company to embrace advanced technologies and sustainable change at the operation level. This approach will also not only help in better integration between IoT and AI technology integration but also make sure the employees are on board, motivated as well as ready to adapt it for the growth and success of the company.
+Importance of Change Management in The Context of Featherlite’s Digital Transformation:
+Smooth Integration: Change management helps in keeping the impact of new technologies to a minimum while enhancing the gains of adopting the new technologies. 
+Employee Engagement: Change management trains and involves the employees to adapt to new skill sets and work processes that are coupled with Featherlite’s digitization. 
+Organizational Alignment: It involves the alteration of all aspects within an organization to ensure that they are all running towards supporting and implementing the changes in the digital system. 
+Minimizing Resistance: This is so since imagery awareness, desire and knowledge can be used to counter resistance to change in favor of new technologies. 
+Long-term Success: They are the keys to managing change which ensures the enhancement of technological adoption, an element that spearheads business development, efficiency, and customer satisfaction.
+Conclusion:
+When an organization like Featherlite is moving toward digital transformation, the importance of change management cannot be overemphasised. Proper integration, involving the employee and ensuring low levels of resistance will enable Featherlite to achieve the appreciation of advanced technologies. In this way, Featherlite with its emphasis on change management brings focus to its digital transformation process; outcomes include maintaining continuous growth, offering a higher quality of customer experience, and optimising its many value chain activities for efficiency.
+
+References
+(2024, August 2). Featherlite Office Furniture : How to Lead the Indian Office Furniture Sector. The Knowledge Review. 
+https://theknowledgereview.com/featherlite-office-furniture-how-to-lead-the-indian-office-furniture-sector/ 
+About Us. Featherlite Furniture.
+	https://featherlitefurniture.com/about/ 
+Rios, A. (2023, August 16). The Power of Repetition: How It Shapes and Creates New Habits in Humans. Medium. 
+https://medium.com/@psychearcade/the-power-of-repetition-how-it-shapes-and-creates-new-habits-in-humans-b90a8ac2278d 
+Streamlining the Future: How IoT Transforms Furniture Manufacturing. Praxie. 
+https://praxie.com/iot-in-furniture-manufacturing/ 
+Sustainability - Featherlite Furniture. 
+https://featherlitefurniture.com/sustainability/ 
+         

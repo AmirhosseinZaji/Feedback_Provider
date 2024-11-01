@@ -1,0 +1,61 @@
+Group 3 Online Discussion 2- AI and ML
+ 
+Nourhan Hassanin Fares Ebrahim (2120880)
+Runsi Wang (2127375)
+Weiwei Hu (2306404)
+Xiao Lei (2309297)
+Ye Bi (2318000)
+University Canada West
+CMPT 641: Digital Transformation
+Amirhossein Zaji
+August 27, 2024
+ 
+
+ 
+
+Introduction
+Artificial intelligence (AI) generally refers to processes and algorithms that can mimic human intelligence, including cognitive functions such as perception, learning, and problem solving. Machine learning is a subset of artificial intelligence. AI and ML represent important developments in computer science and data processing that are rapidly transforming numerous industries. The role of AI and ML is mainly reflected in data analysis, process automation, personalized services, and driving innovation. Next, I will describe the application of AI and ML in various industries.
+
+Retail
+
+Application of Ai: In retail, AI personalizes recommendations by analyzing consumer purchase history, browsing data, and preferences. Recently, Amazon introduced "Rufus," an AI feature that suggests products to customers based on their characteristics (Weise, 2024).
+
+Application of ML: In retail, ML continuously learns from user behavior data to optimize recommendation algorithms, improving accuracy and providing personalized discounts and updates on favorite products.
+
+Transportation Industry
+
+Application of AI: AI can analyze traffic data to reduce congestion and suggest alternative travel times. In autonomous driving, AI uses cameras and LIDAR to make real-time decisions for path planning and obstacle avoidance. (Nageshrao et al., 2022). For example, the “Radish Run” program in Wuhan, China, is replacing cabs with AI driving.
+
+Applications of ML: ML can enhance demand forecasting for public transport, optimizing routes, vehicle scheduling, and reducing wait times. In autonomous driving, ML, through deep learning, improves obstacle recognition and decision-making, resulting in more accurate driving.
+
+Manufacturing
+
+Application of AI: AI can collect and analyze real-time production data, adjust parameters, reduce errors, and replace manual labor, as seen in Foxconn. Additionally, AI uses image recognition to monitor products for defects like surface flaws and dimensional deviations. (Lee et al., 2019).
+
+Application of ML: Machine learning optimizes production by analyzing historical data and process parameters. For example, Xiaomi cars used manufacturing data from peers to achieve high efficiency and quality from the start of mass production.
+
+Healthcare Industry
+
+Application of AI: AI assists in diagnosing diseases by analyzing medical images, detecting issues like cancer and heart disease. In wearables, AI monitors health in real-time, tracking indicators and providing timely feedback.
+
+Application of ML: ML models can learn from extensive patient data to detect early disease symptoms for timely intervention. Additionally, ML analyzes health data to offer personalized advice, helping people manage their health more effectively. (Nayyar et al., 2021).
+
+Conclusion
+
+AI and ML are vital for digital transformation across industries. As AI and ML continue to evolve, they will deepen their impact across sectors, driving further digital transformation and industry progress.
+
+ 
+
+ 
+
+ 
+
+References
+
+Lee, J., Singh, J., & Azamfar, M. (2019, August 4). Industrial Artificial Intelligence. arXiv.org. https://arxiv.org/abs/1908.02150
+
+Nageshrao, S., Rahman, Y., Ivanovic, V., Jankovic, M., Tseng, E., Hafner, M., & Filev, D. (2022). Robust AI driving strategy for autonomous vehicles. In Lecture notes in intelligent transportation and infrastructure (pp. 161–212). https://doi.org/10.1007/978-3-031-06780-8_7
+
+Nayyar, A., Gadhavi, L., & Zaman, N. (2021). Machine learning in healthcare: review, opportunities and challenges. In Elsevier eBooks (pp. 23–45). https://doi.org/10.1016/b978-0-12-821229-5.00011-2
+
+Weise, K. (2024, February 2). Amazon has new chatbot for shoppers. Document - Gale Academic OneFile. https://go.gale.com/ps/i.do?id=GALE%7CA781187096&sid=googleScholar&v=2.1&it=r&linkaccess=abs&issn=03624331&p=AONE&sw=w&userGroupName=anon%7E6f56530d&aty=open-web-entry

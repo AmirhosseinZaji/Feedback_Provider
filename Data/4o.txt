@@ -1,0 +1,41 @@
+Individual Online Discussion 4
+
+Blockchain Technology in Supply Chain Management 
+
+ Vismaya Vijayan (2303749)
+
+University Canada West
+
+ CMPT 641: Digital Transformation (HBD- Summer24-17)
+
+Prof. Dr. Amirhossein Zaji
+
+September 13, 2024
+
+Introduction
+
+Among the most potential applications of the new blockchain technology is supply chain management. In order to help with some of the challenges faced by supply chain participants, blockchain, the digital record-keeping system created for cryptocurrency networks, can offer a thorough, transparent, and unchangeable history of the financial, inventory, and information flows in transactions.  
+
+The primary purpose of blockchain technology is to allow an infinite number of anonymous people to deal safely and secretly with one another without the need for a central middleman in cryptocurrency networks intended to replace fiat currencies. In the context of supply chains, this means enabling a small group of well-known parties to safeguard their commercial activities from dishonest parties while fostering improved efficiency. New standards for representing transactions on a block, new permissioned blockchains, and new system regulations are all necessary for successful blockchain applications for supply chains. These standards are now in different phases of development.
+
+The Uses and Advantages of Blockchain in Supply Chain Management 
+
+Traceability: Should a company discover a defective product, its supply chain partners can use blockchain technology to locate the product, identify all suppliers associated with it, identify batches related to manufacturing and shipping, and promptly recall it. When a commodity is perishable, like fresh food and some medications, the blockchain enables participating businesses to automatically check its quality: Any dangerous temperature variations can be recorded on the blockchain using a refrigerated container fitted with an internet of things (IoT) device to monitor the temperature (Using Blockchain to Drive Supply Chain Transparency, n.d.). Furthermore, since counterfeit goods wouldn't have a blockchain verification history, the blockchain can ease merchant concerns about the legitimacy of a returned product. 
+
+Increasing efficiency and speed and reducing disruptions: Walmart Canada has started utilizing blockchain technology in its relationships with the trucking businesses who move its products. Trucking companies may track shipments, coordinate logistical data, and automate payments using a shared blockchain without having to make major adjustments to their IT infrastructure or internal business procedures, Gaur (2020).
+
+The fact that these applications, like those for enhancing traceability, only require participating organizations to share a minimum amount of data in this case, merely inventory or shipment data makes adopting blockchain to improve supply chain efficiency and speed all the more appealing. Furthermore, even in big businesses with numerous ERP systems, these apps are helpful.
+
+Improving financing, contracting, and international transactions.
+
+The sharing of inventory, data, and financial flows across businesses via a blockchain can lead to major improvements in contracts, international trade, and supply chain financing. Think about the issue of funding. An established issue pertaining to information asymmetry concerning the nature of a borrower firm's operations, the caliber of its assets, and its obligations affects banks who extend working capital and trade credit to businesses. For instance, a business may take out many bank loans secured by the same asset or apply for a loan for one use and then utilize it for another. Banks build their systems to manage these kinds of risks, which drives up transaction costs, impedes capital availability, and lowers the amount of money available to small businesses. These conflicts are bad for businesses as well as banks.
+
+Conclusion 
+
+Supply chains can be made much better in terms of funding, coordination, end-to-end traceability, and product delivery speed. Blockchain, as demonstrated by the businesses we looked at, can be an effective solution for fixing the shortcomings. Now is the moment for supply chain managers who have been idly watching blockchain technology to evaluate how it can benefit their companies. They must participate in the initiatives to create new regulations, try out new technologies, run trials with different blockchain platforms, and create an ecosystem with other businesses. Sure, some resources will need to be committed, but there should be a good return on that investment.
+
+References 
+
+Gaur, V. (2020, April 14). Building a transparent supply chain. Harvard Business Review. https://hbr.org/2020/05/building-a-transparent-supply-chain
+
+Using blockchain to drive supply chain transparency. (n.d.). Deloitte United States. https://www2.deloitte.com/us/en/pages/operations/articles/blockchain-supply-chain-innovation.html 

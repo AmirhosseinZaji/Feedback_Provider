@@ -1,0 +1,128 @@
+
+
+
+
+
+
+Individual Assignment #1
+Namuun Purevbayar (2315169)
+University Canada West
+CMPT 641 - Digital Transformation
+Amirhossein Zaji
+11th, August
+
+ 
+“GER” limited furniture company
+
+Introduction
+
+GER was established in Vancouver, Canada, in 1996 by the current owner Crystal Bat. GER is one of the most powerful companies in the furniture industry and has gained recognition for its dedication to providing strong, long-lasting goods at reasonable costs. In-store sales, production, storage, distribution, and other activities make up the company's entire operational spectrum.  It has a strong reputation that it has developed over years of steady performance. The company has a great reputation in the industry, but its online presence is still restricted to a simple website lacking e-commerce features. The company is in an excellent position to improve its operational efficiency and customer engagement through a deliberate digital transformation while the digital landscape keeps changing. 
+Through this research, I’m aiming to assess the company's existing value chain and suggest a new, digitalized one that makes use of cutting-edge technologies and digital tactics. Determine the possible obstacles and worries that employees have about the digital transformation. Create and implement a change management plan to help guarantee that everything goes well, reduce resistance, and make sure that every employee is aware of the changes and on board. 
+
+Company’s current Value Chain Model
+
+According to Porter’s Value chain model, the whole organization’s processes are divided into two main sectors: primary and support activities. Primary activities contain vital components of the business that directly go towards making revenues, while support activities give the assistance required for the successful completion of the main activities. (Bellantuono, N., Nuzzi, A., Pontrandolfo, P., & Scozzi, B, 2021)
+
+
+
+
+
+
+
+
+Picture 1. 
+Porter’s Value Chain Model
+
+
+
+
+
+
+
+
+
+
+
+
+
+Table 1. 
+Current Value Chain Model of GER
+
+Primary Activities
+
+Inbound Logistics	Operations 	Outbound Logistics
+★	Procurement - Cooperations with suppliers for purchasing raw materials for product manufacturing. 
+★	Inventory management - Efficient warehousing activities that starts from receiving the raw materials, storing raw materials and finished products. All the movements that related to inventory that go in the warehouse should be under control in this part. 	★	Manufacturing - The actual process of making furniture such as, cutting, assembling, polishing, quality check and packaging. 
+	★	Distribution - Delivery to the retail stores
+
+
+Marketing and Sales
+Service
+★	In-store sales - Only focusing on physical retail stores
+★	Website - Simple product display without online shopping.	★	Customer support - "Limited to in-store and post-sale services" which means that a company provides particular kinds of customer care and assistance exclusively at their physical location or after sale. 
+
+
+Supporting Activities 
+
+Firm infrastructure	HR management	Technology Development	Procurement
+Regular business administrative functions including finance and legal. 	Traditional recruitment, employee management and training.	Small-scale IT infrastructure for only internal employee usage. For example: Microsoft applications such as Word and Excel on a daily basis. 	Manual supplier selection for raw materials and components. Also, make manual calculations of supply chain cost. 
+
+
+New Value Chain Model After Digital Transformation
+
+After drawing and analyzing the current value chain model of the company, I’d suggest they start their digital transformations by implementing an Enterprise Resource Planning (ERP) system in their business. (Gil-Gomez, H., Guerola-Navarro, V., Oltra-Badenes, R., & Lozano-Quilis, J. A, 2020) Because, the supply chain, manufacturing, sales, customer service, finance, human resources, and other departments all handle key business activities with an ERP system. (Nicovich, S. G., Dibrell, C. C., & Davis, P. S, 2007) Thus, it is one wholesome application that assists in improving the general productivity of a company. Furthermore, it is better if they develop their website and offer online purchasing options to customers through their website. The below table supports the idea that ERP systems and website development can affect and improve the current value chain model after applying the system. 
+
+
+
+Table 2. 
+New Value Chain Model of GER 
+Primary Activities
+
+Inbound Logistics
+
+
+	1.	Improved supplier integrations - ERP supports supply chain management, that means it helps GER to make informed decisions by giving them access to real-time information on inventory levels, locations, and status.(Gil-Gomez,H., Guerola-Navarro,V.,Oltra-Badenes,R.,& Lozano-Quilis, J. A, 2020)
+2.	ERP makes it easier to coordinate and communicate with suppliers, which guarantees on-time delivery and lowers stockouts.
+3.	Also it assists in balancing inventory levels with anticipated sales by forecasting future demand using analytics and historical data.
+Operations	1.	Enhancing productivity and product quality by making use of advanced machinery equipment and technologies besides ERP. Because, automated manufacturing procedures and equipment have the speed and accuracy to complete repeated jobs quickly. 
+2.	Materials are easily moved, sorted, and stored more efficiently and with less manual labour. Also, it is useful for tracking defective products. 
+Outbound Logistics	1.	Enhanced distribution - Increasing the efficiency and effectiveness of the delivery of goods from the warehouse to the designated location. Real-time tracking and route optimization are essential for reaching this ultimate goal. For instance, the system can reroute vehicles to avoid delays in the case of rush hour traffic or road closure.(Gil-Gomez,H.,Guerola-Navarro,V.,Oltra-Badenes,R.,& Lozano-Quilis, J. A, 2020)
+Marketing and Sales	1.	E-commerce platform - The main purpose of this platform is smooth and user-friendly buying experience in online stores, which features product customization and safe payment methods. It helps to boost their sales and also gives an opportunity to make a good connection with their customers. (Stackpole, T, 2021)
+2.	Digital marketing - Reach their target market by using social media and email campaigns
+3.	Website development - Virtual showrooms
+Service	1.	Support and take care of customers after sales by using chatbot, online customer portal and live chats. (Stackpole, T, 2021)
+2.	ERP enhances order tracking and processing, ensuring prompt delivery and increased client satisfaction.
+Supporting Activities 
+Firm infrastructure	Expedites information flow and transactional processes, which speeds up order fulfilment, billing, and financial reporting. 
+HR management	Integrated employee dataset and simplifies HR tasks including performance management, benefits administration, and payroll. It gives clear information for both employees and the management. 
+Technology Development	ERP systems may be set up on the cloud, providing more flexibility and scalability as well as lowering the requirement for hardware and maintenance at the location. Mobile app and system customization. 
+Procurement	Automated procurement process that can reduce manual tasks including cost calculation, supplier comparison based on historical data, and creating orders. 
+
+
+Change Management Strategy
+
+Change is an unavoidable part of organizational life due to the rapid advancement of technology, the global economy, and other factors. A planned strategy for easing an organization's shift from its present state—where it is now—to its desired future state is known as change management. (Forrester, 2023) It is the process of updating an organization's capabilities, direction, and structure to meet the constantly evolving needs of both internal and external clients. The procedure and resources used to assist individuals during a shift are also referred to as change management. (Forrester, 2023) In this case, Kotter’s 8-Step change model is the most suitable change management model for GER. 
+1.	Sense of urgency - Organise meetings or workshops to raise awareness of the advantages of digital transition. 
+2.	Build a guiding coalition - Create a cross-functional team that includes people from marketing, operations, IT, and human resources. Because, we are trying to increase the general productivity of the company, not only one process. 
+3.	Form a strategic vision - Make it clear how the future will differ from the past by using digitalization and develop a detailed road map to how to achieve the transformation. (Nicovich, S. G., Dibrell, C. C., & Davis, P. S, 2007) 
+4.	Communicate the vision - Motivate employees to actively participate in achieving goals by delivering the message that every individual’s participation is needed for the change.
+5.	Empower action - Eliminate obstacles that slow progress or cause delays in tasks and always be ready for feedback. 
+6.	Short-term wins - Always sharing about successes during the transition and letting employees know how close we are to the targeted goal. 
+7.	Build on change - Continuously engage with the process and keep motivating all employees as a supervisor, leader, or manager. 
+8.	Embed the change - Make clear the connection between the success of the organization and the new behaviors and ensure that these are maintained until they are powerful enough to replace the old ones. (Nicovich, S. G., Dibrell, C. C., & Davis, P. S, 2007) 
+The probability of an organization achieving its goals is much higher when change management is integrated than when it is not. Significant aspects of the transformation process are addressed by effective change management. For example: It promotes smoother transitions by addressing concerns and doubts that may lead to employee resistance. Ensuring that all stakeholders agree with the project's objectives and encourages open communication about the goals, advantages, and procedures of the change within employees. Furthermore, it creates measures such as KPIs to monitor development and show return on investment, guaranteeing that the transformation delivers observable advantages. (Forrester, 2023)
+
+Conclusion 
+Now, GER's value chain is based on conventional operations, involving manual procedures or minimal digitally assisted core processes including manufacture, sales, distribution, and procurement. The company's ineffective online presence limits the extent to which it may interact with clients outside of its physical locations. The suggested digital transformation includes building an integrated e-commerce platform and putting in place an ERP system. Inbound logistics, operations, outbound logistics, marketing, sales, and customer service will all be included in this new value chain with modern technologies that are improving customer experiences, increasing efficiency, and simplifying processes. 
+
+
+
+
+References
+Bellantuono, N., Nuzzi, A., Pontrandolfo, P., & Scozzi, B. (2021). Digital Transformation Models for the I4.0 Transition: Lessons from the Change Management Literature. Sustainability, 13(23), 12941. https://doi.org/10.3390/su132312941
+Forrester. (2023, June 26). Change management in digital transformation. Forbes. https://www.forbes.com/sites/forrester/2023/06/23/change-management-in-digital-transformation/
+Gil-Gomez, H., Guerola-Navarro, V., Oltra-Badenes, R., & Lozano-Quilis, J. A. (2020). Customer relationship management: digital transformation and sustainable business model innovation. Economic research-Ekonomska istraživanja, 33(1), 2733-2750.
+Stackpole, T. (2021, August 30). Inside IKEA’s digital transformation. Harvard Business Review. https://hbr.org/2021/06/inside-ikeas-digital-transformation
+Nicovich, S. G., Dibrell, C. C., & Davis, P. S. (2007). Integration of Value Chain Position and Porter's (1980) Competitive Strategies into the        
+Market Orientation Conversation: An Examination of Upstream and Downstream Activities.              Journal of Business & Economic Studies, 13(2). 
+

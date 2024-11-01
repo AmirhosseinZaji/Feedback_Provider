@@ -1,0 +1,49 @@
+Blockchain in Real Estate
+
+Astha Jatinkumar Patel (2234665)
+
+University Canada West
+
+CMPT 641: Digital Transformation
+
+Dr. Amirhossein Zaji
+
+September 12th, 2024
+
+Introduction
+
+Blockchain technology is best known as a decentralized and open ledger that has been used in the real estate industry (Combs, 2023). It is not merely limited to the current usual use in business deals since it has many advantages and solutions to problems.
+
+Application & Benefits of Blockchain in the Real Estate Industry
+
+One of the most apparent uses of blockchain in real estate is managing records such as title deeds. This is because records of ownership information stored in the property are achieved through a blockchain that cannot be edited, saving the trouble of fraud, mistakes, or lost papers. This enhanced credibility and efficiency in using blockchain and associated technologies could transform property transaction flows, making them less time-consuming, more efficient, and more secure (Mipim World Blog, n.d.).
+
+In addition, blockchain can solve the problem of diversification of ownership, which implies the ability to invest a certain amount in each property without necessarily owning such property. By democratizing real estate ownership, there may be improved liquidity and lower costs that enhance the accessibility of investment property (reAlpha, 2024).
+
+Real estate transactions can also benefit from smart contracts, which are automated contracts that convert the conditions of a contract or agreement into digital code (Imenso, 2024). These contracts can include payment of rent, lease extension or renewal, and other administrative tasks in properties, eliminating middlemen and cutting expenses (Imenso, 2024).
+
+Challenges Associated with the Application of Blockchain in Real Estate
+
+However, some challenges are associated with implementing blockchain in real estate. In its path, there are challenges such as regulatory challenges, scalability issues, and the issue of compatibility between the various blockchain systems. Another aspect that requires consideration is the protection of privacy and security of real estate information.
+
+Conclusion
+
+Therefore, blockchain technology holds the key to addressing most of the problems in the real estate sphere. Blockchain can revolutionize property buying, selling, and management by improving features such as transparency, security, efficiency, and ease. With the advances in this technology, the real estate market has been revolutionized significantly.
+
+References
+
+(2024, May 1). Blockchain Applications in Real Estate: What Are They? reAlpha.
+
+https://www.realpha.com/blog/blockchain-in-real-estate-applications
+
+Blockchain in Real Estate: Enhancing Security and Transparency. Mipim World Blog.
+
+https://blog.mipimworld.com/guide-proptech/proptech-blockchain-real-estate-security-transparency/
+
+Combs, L. G. (2023, January 12). The Future of Real Estate With Blockchain Technology.
+
+https://www.withum.com/resources/the-future-of-real-estate-with-blockchain-technology/
+
+(2024, March 28). How Smart Contracts are Revolutionizing the Real Estate Sector. Imenso Software.
+
+https://www.imensosoftware.com/blog/how-smart-contracts-are-revolutionizing-the-real-estate-sector/

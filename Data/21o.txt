@@ -1,0 +1,98 @@
+The Role of Artificial Intelligence and Machine Learning in the Digital Transformation of the Healthcare Industry
+
+ 
+
+Donglei Wang (2243323)
+
+Huilin Chen (2302651)
+
+Shuo Li (2300533)
+
+Yan Dong (2304686)
+
+Haoran Xu (2317218)
+
+University Canada West
+
+CMPT 641: Digital Transformation (HBD-SUMMER24-17)
+
+Dr. Amirhossein Zaji
+
+Aug 29th, 2024
+
+ 
+
+ 
+
+Introduction
+
+Modern technology can now support cutting-edge progress in many spheres of life, including business. One is the shift in medicine applying machine learning (ML) and artificial intelligence (AI). This essay will demonstrate the importance of AI and ML in advancing cutting-edge developments in healthcare.  
+
+The Role of AI and ML in Healthcare Digital Transformation
+
+Increase Diagnostic Accuracy
+
+AI is accelerating and enhancing disease diagnosis. More specifically, AI imaging technology can significantly increase the precision with which serious illnesses like cancer and heart disease are diagnosed (Pinto-Coelho, 2023). Shed (2018) claims that DeepMind, a Google artificial intelligence system, can diagnose more than 50 eye conditions as accurately as leading medical specialists.
+
+AI-assisted radiological diagnostic tools can quickly analyze medical images, especially in the early identification and diagnosis of diseases (Hosny et al., 2018). These accurate test data can effectively improve patient treatment outcomes. From this we can conclude that in the next few years, AI technology has great development potential in the medical industry, both in terms of improving patient care and in the accuracy of medical diagnosis.
+
+Personalized Treatment Plan
+
+Javaid et al. (2022) introduced that machine learning algorithms can analyze large amounts of clinical data and disease patterns and then predict patients' pathological responses to different therapies. For example, the SaaS platform IBM Watson for Oncology can evaluate patients’ pathology data through machine learning (ML) technology and then provide trend reports with predictions (Zhou et al., 2019). Medical institutions and doctors can use these reports to analyze the different needs of each patient and customize treatment and care plans.
+
+In cancer diagnosis, ML algorithms can help doctors detect and segment tumors. Machine learning image classification and positioning technology can effectively improve the accuracy of doctors' diagnoses and provide patients with more accurate treatment plans. Today, convolutional neural networks (CNNs) have been widely used in cancer detection and achieve accurate lesion identification and quantitative analysis (Hermosilla et al., 2024).                
+
+Improve Medical Care Level
+
+The growing demand for healthcare services from people after COVID-19 is placing a great deal of stress on the world's limited healthcare resources. Some leading healthcare organizations have introduced AI solutions to support their medical staff by building virtual nursing assistant systems. Curtis et al. (2021) pointed out that virtual nursing assistants can help patients by identifying possible problems, providing medical advice, reminding patients to take medication, making doctor appointments, and monitoring patients' vital signs.
+
+Furthermore, remote monitoring and virtual consultations made possible by AI and ML technology allow patients to obtain prompt, high-quality medical treatment whenever needed, no matter where they are. This increases access to healthcare (Chavali et al., 2024).
+
+Challenges and Ethical Considerations
+
+The potential disadvantages of artificial intelligence (AI) and machine learning in the healthcare industry must not be overlooked, as they present risks related to algorithmic bias and data privacy (Elendu et al., 2023). People's reliance on AI-driven decision-making will grow because of technology. This will raise grave concerns about diminished accountability and moral dilemmas within the healthcare sector.
+
+Conclusion
+
+In conclusion, new technology's creativity and advancement to the medical industry should not be undervalued. Medical professionals can create more individualized treatment programs using these technologies, which can also raise medical facilities' detection standards. However, new difficulties often come around as technology advances. Problems that need to be resolved quickly include algorithm bias brought on by inadequate training data sets and ethical data privacy concerns.
+
+ 
+
+ 
+
+ 
+
+Reference
+
+Chavali, D., Dhiman, V. K., & Katari, S. C. (2024). AI-Powered Virtual Health Assistants: Transforming Patient Engagement Through Virtual Nursing. International Journal of Pharmaceutical Sciences, 2(2), 613-624.
+
+https://doi.org/10.5281/zenodo.10691495
+
+Curtis RG, Bartel B, Ferguson T, Blake HT, Northcott C, Virgara R, et al. Improving user experience of virtual Health Assistants: scoping review. Journal of medical Internet research, 2021;23(12). 
+
+https://www.jmir.org/2021/12/e31737/
+
+Elendu, C., Amaechi, D. C., Elendu, T. C., Jingwa, K. A., Okoye, O. K., John Okah, M., Ladele, J. A., Farah, A. H., & Alimi, H. A. (2023). Ethical implications of AI and robotics in healthcare: A review. Medicine, 102(50), e36671. https://doi.org/10.1097/MD.0000000000036671
+
+Hermosilla, P., Soto, R., Vega, E., Suazo, C., & Ponce, J. (2024). Skin Cancer Detection and Classification Using Neural Network Algorithms: A Systematic Review. Diagnostics (Basel, Switzerland), 14(4), 454.
+
+https://doi.org/10.3390/diagnostics14040454
+
+Hosny, A., Parmar, C., Quackenbush, J., Schwartz, L. H., & Aerts, H. J. W. L. (2018). Artificial intelligence in radiology. Nature reviews. Cancer, 18(8), 500–510. https://doi.org/10.1038/s41568-018-0016-5
+
+Javaid, M., Haleem, A., Singh, R. P., Suman, R., & Rab, S. (2022). Significance of machine learning in healthcare: Features, pillars and applications. International Journal of Intelligent Networks, 3, 58-73.
+
+https://doi.org/10.1016/j.ijin.2022.05.002
+
+Pinto-Coelho L. (2023). How Artificial Intelligence Is Shaping Medical Imaging Technology: A Survey of Innovations and Applications. Bioengineering (Basel, Switzerland), 10(12), 1435.
+
+https://doi.org/10.3390/bioengineering10121435
+
+Shead, S. (2018, August 13). Google DeepMind's AI Can Detect 50 Eye Disease Conditions And Save Sight. Forbes. Retrieved August 23, 2024, from https://www.forbes.com/sites/samshead/2018/08/13/google-deepminds-ai-can-detect-50-eye-disease-conditions-and-save-sight/
+
+Zhou, N., Zhang, C. T., Lv, H. Y., Hao, C. X., Li, T. J., Zhu, J. J., Zhu, H., Jiang, M., Liu, K. W., Hou, H. L., Liu, D., Li, A. Q., Zhang, G. Q., Tian, Z. B., & Zhang, X. C. (2019). Concordance Study Between IBM Watson for Oncology and Clinical Practice for Patients with Cancer in China. The oncologist, 24(6), 812–819. https://doi.org/10.1634/theoncologist.2018-0255
+
+ 
+
+ 
+

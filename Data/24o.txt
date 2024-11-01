@@ -1,0 +1,289 @@
+Digital Transformation Strategy for Herman Miller
+Shuo Li (2300533)
+University Canada West
+CMPT 641: Digital Transformation (HBD-SUMMER24-17)
+Dr. Amirhossein Zaji
+Aug 11st, 2024
+1
+2
+Table of Contents
+Introduction ...................................................................................................................... 3
+Herman Miller Current Porter's Value Chain Analysis ...................................................... 3
+Primary Activities ...................................................................................................................... 3
+1. Inbound Logistics ...................................................................................................................................... 3
+2. Operations .................................................................................................................................................. 4
+3. Outbound Logistics .................................................................................................................................... 4
+4. Marketing and Sales .................................................................................................................................. 4
+5. Service ........................................................................................................................................................ 4
+Support Activities ....................................................................................................................... 4
+1. Firm Infrastructure ................................................................................................................................... 4
+2. Human Resource Management ................................................................................................................ 5
+3. Technology Development ........................................................................................................................... 5
+4. Procurement .............................................................................................................................................. 5
+Digital Transformation Strategy for Herman Miller ........................................................... 5
+Primary Activities ...................................................................................................................... 5
+1. Digital Inbound Logistics .......................................................................................................................... 5
+2. Automated Operations ............................................................................................................................... 5
+3. E-commerce Outbound Logistics .............................................................................................................. 6
+4. Digital Marketing and Sales ...................................................................................................................... 6
+5. Intelligent Service ...................................................................................................................................... 6
+Support Activities ....................................................................................................................... 6
+1. Infrastructure Digitalization ..................................................................................................................... 6
+2. Human Resources in the Digital Age ........................................................................................................ 7
+3. Advanced Technology Development .......................................................................................................... 7
+4. Modernized Procurement .......................................................................................................................... 7
+Change Management Strategy ........................................................................................... 7
+Employee Concerns ................................................................................................................... 7
+Change Management Model ...................................................................................................... 7
+Application of Kotter's Model ................................................................................................... 8
+1. Create a Sense of Urgency ........................................................................................................................ 8
+2. Form a Guiding Coalition ......................................................................................................................... 8
+3. Create a Vision ........................................................................................................................................... 8
+4. Communicate the Vision ........................................................................................................................... 9
+5. Empower Others to Act on the Vision ....................................................................................................... 9
+6. Create Quick Wins ..................................................................................................................................... 9
+7. Build on the Change .................................................................................................................................. 9
+8. Institutionalize the Change ....................................................................................................................... 9
+Conclusion ...................................................................................................................... 10
+Reference ........................................................................................................................ 11
+3
+Introduction
+Herman Miller is a conventional furniture firm in the United States that primarily
+operates physical retail locations. It has strongly emphasized manufacturing, warehousing,
+distribution, and in-store sales and is known for producing high-quality and long-lasting
+furniture (Herman Miller, 2024). In terms of digital operations, Herman Miller's official
+website is limited to furniture exhibition and scene simulation; it does not offer any online
+commercial features that may be converted. Herman Miller's existing operations and business
+strategy cannot keep up with the modern furniture market's rapid digital development. As a
+result, Herman Miller needs to create a thorough digital transformation plan to surpass
+customer value expectations and preserve its market position.
+As a digital strategy consultant, I will use IKEA as a reference in this report to
+propose a digital transformation strategy for Herman Miller, using Porter's value chain as a
+framework to analyze the company's current operating status and the directions and areas that
+can be improved in the future and help the brand solve the change management challenges
+necessary for a successful transformation process.
+Herman Miller Current Porter's Value Chain Analysis
+According to Byrne (2018), Herman Miller's current Porter value chain includes the
+following activities:
+Primary Activities
+1. Inbound Logistics
+A procedure for obtaining and holding high-quality materials guarantees a steady
+supply chain necessary for manufacturing (Byrne, 2018). The minimal integration of
+4
+technology in this conventional process may result in inefficient inventory tracking.
+2. Operations
+Manufacturing processes consist of lean manufacturing techniques and
+well-functioning machines (Byrne, 2018). Its operations mainly rely on manual processes and
+traditional machinery, which limits its flexibility and scalability.
+3. Outbound Logistics
+The distribution strategy is mainly to deliver finished products to retail stores and
+designated customers (Byrne, 2018). The lack of an online sales platform prevents reaching a
+wider audience, which is very unfavorable to the company's market share.
+4. Marketing and Sales
+The main focus of marketing initiatives is on collaborations with retailers and in-store
+promotions (Byrne, 2018). Herman Miller is losing out on chances to use data-driven
+marketing methods because e-commerce is growing so rapidly.
+5. Service
+After-sales service is managed by the customer service desk in the physical store to
+handle returns and repairs (Byrne, 2018). However, Herman Miller's official website lacks
+digital customer service platforms like online chat.
+Support Activities
+1. Firm Infrastructure
+Well-structured management systems focus on financial performance and strategic
+decision-making (Byrne, 2018). These infrastructures are more in line with traditional retail
+businesses and lack the technical support required for digital transformation.
+5
+2. Human Resource Management
+The company achieves its cost-minimization goals by analyzing recruitment and
+training costs and their relative returns (Byrne, 2018). However, employees' current skills
+need to be upgraded to master new technologies and digital processes.
+3. Technology Development
+The R&D department is innovative in product design and manufacturing technologies,
+but its technology development in digital infrastructure is limited and lacks digital tools to
+enhance product design, customer engagement, or operational efficiency (Byrne, 2018).
+4. Procurement
+The procurement strategy focuses on procuring high-quality equipment and raw
+materials from reliable suppliers (Byrne, 2018). However, the lack of big data tools in the
+procurement process may miss opportunities to save costs or optimize the supply chain.
+Digital Transformation Strategy for Herman Miller
+Innovative digital solutions can reduce costs and increase value throughout the value
+chain of a product (Stern & Ziegler, 2013). The improved value chain will be combined with
+a digital strategy to improve the company's efficiency and customer experience.
+Primary Activities
+1. Digital Inbound Logistics
+Implement advanced JIT inventory management systems to track and manage
+inventory in real-time and ensure that the company always has the necessary materials
+without overstocking (Ozturk, 2020).
+2. Automated Operations
+6
+Incorporate artificial intelligence and IoT technologies into manufacturing processes
+to increase the production speed and value of products (ProductPlan, 2024). This improves
+efficiency and supports the company's commitment to sustainability by optimizing resource
+utilization and reducing waste (Chijioke et al., 2024).
+3. E-commerce Outbound Logistics
+Develop a comprehensive e-commerce platform directly on a well-designed official
+website to provide customers with a seamless shopping experience (Braake, 2023). Logistics
+integration with the platform will enable efficient and free delivery services and improve
+customer satisfaction (Dudovskiy, 2022).
+4. Digital Marketing and Sales
+Use digital marketing strategies such as SEO, social media marketing, and
+personalized online advertising to enhance its brand influence. By creating digital marketing
+campaigns that resonate with its customer base to increase consumer brand engagement and
+sales (Rame et al., 2024).
+5. Intelligent Service
+Add AI-driven customer support systems such as chatbots to improve after-sales
+service. Learning from IKEA provides consumers with AR immersive tools to help customers
+experience the furniture views in a virtual space before purchasing (Rame et al., 2024).
+Support Activities
+1. Infrastructure Digitalization
+Upgrade infrastructures through the ERP system, integrating all aspects from finance
+to supply chain management, thereby providing a unified platform for decision-making and
+7
+operational management (AlMuhayfith & Shaiti, 2018; Sriramineni, 2018).
+2. Human Resources in the Digital Age
+Train and improve employees' skills in digital technologies. Create a work
+environment of continuous learning and innovation to help and motivate employees to adapt
+and accept changes (Olaoye & Potter, 2024).
+3. Advanced Technology Development
+Develop new smart furniture and achieve predictive maintenance and process
+improvements through IoT technology (Oracle, 2024).
+4. Modernized Procurement
+Leverage big data to stay current on supplier performance, material pricing, and
+furniture market trends to inform wiser procurement decisions (Mittal et al., 2023).
+Change Management Strategy
+Employee Concerns
+As Herman Miller's digital transformation process continues, some employees may
+resist change. Technological changes are often accompanied by changes in corporate
+interpersonal relationships and personnel structures (Lawrence, 2024). This means that when
+automation technology is integrated with Herman Miller's business, many employees may
+worry about losing their jobs or being unable to adapt to new technologies. Herman Miller
+needs to prioritize these issues and improve employee morale to ensure a smooth digital
+transformation process.
+Change Management Model
+To address employees' concerns, Herman Miller can consider using Kotter's 8-step
+8
+change model to manage its digital transformation. This structured and comprehensive
+approach can motivate employees to actively participate in the transformation process and
+obtain the necessary support and training, thereby reducing the company's resistance during
+the transformation process (Minute Tools Content Team, 2021).
+Application of Kotter's Model
+Kotter's 8 Steps Change Model is divided into three stages: create a climate for
+change, engage and enable the organization, and implement and sustain (Minute Tools
+Content Team, 2021). This model can help employees acquire the digital skills they need to
+succeed, provide ongoing support, and establish feedback loops to ensure that any problems
+that arise during digital transformation are resolved effectively.
+1. Create a Sense of Urgency
+Emphasize the importance of digital transformation for the company to remain
+competitive in the furniture market with employees. For example, showing the success of
+competitors such as IKEA in the field of digitalization and explains that Herman Miller may
+lose market share if it does not follow up.
+2. Form a Guiding Coalition
+Form a leadership team to drive digital transformation for coordinating resources and
+providing support, including executives with digital technology knowledge, influential
+department heads, and employee representatives who are positive about change.
+3. Create a Vision
+The vision for digital transformation is "Enhancing customer experience through
+digital technology and building a world-leading smart furniture company."
+9
+4. Communicate the Vision
+Make sure that every employee is aware of and supportive of the change's direction
+by sharing the change's vision with them all via a variety of channels, including internal
+emails, bulletin boards, online training, and staff meetings.
+5. Empower Others to Act on the Vision
+Encourage employees to make suggestions about digital transformation and support
+them in trying new digital tools and processes at work.
+6. Create Quick Wins
+Set several short-term goals, including launching a new e-commerce platform,
+optimizing suppliers based on big data analysis, and completing the automated production of
+chair wheels. After achieving these short-term goals, Herman Miller will promptly recognize
+and reward employees.
+7. Build on the Change
+Prioritize the establishment of e-commerce platforms, and after the e-commerce
+platforms obtain stable orders, introduce digital technologies into supply chain management,
+customer service, and other fields to ensure durability.
+8. Institutionalize the Change
+Adjust the company's performance evaluation standards, reward system, training
+content, and recruitment standards to ensure that the changes are consolidated and
+continuously applied. Digital transformation can only be truly successful when new ways of
+working are deeply rooted in corporate culture.
+10
+Conclusion
+In conclusion, Herman Miller wants to outperform rivals like IKEA by increasing
+consumer value through its digital transformation plan. Herman Miller may enhance
+customer satisfaction and broaden its market reach by implementing digital technologies into
+its operations, marketing, and customer service and updating its supply chain. During the
+transformation process, employee engagement, motivation, and support are contingent upon
+the implementation of a robust change management approach. This digital transformation
+will allow Herman Miller to carry on its heritage of quality and innovation in the digital era.
+11
+Reference
+AlMuhayfith, S., & Shaiti, H. (2018). The Impact of Enterprise Resource Planning on
+Business Performance: With the Discussion on Its Relationship with Open Innovation.
+Journal of Open Innovation: Technology, Market, and Complexity2, 6(3).
+https://doi.org/10.3390/joitmc6030087
+Braake, T. T. (2023, July 11). The Evolution of E-commerce Platforms for Seamless Online
+Shopping. Linkedin. Retrieved August 6, 2024, from
+https://www.linkedin.com/pulse/evolution-e-commerce-platforms-seamless-online-te-
+braake/
+Byrne, T. (2018, September 23). Value Chain Analysis Of Herman Miller. Essay48. Retrieved
+August 6, 2024, from
+https://www.essay48.com/value-chain-analysis/13539-Herman-Miller-Value-Chain-A
+nalysis
+Chijioke, D., Mamudu, U. U., Obasi, C. D., & Awuye, S. K. (2024). Circular economy in the
+manufacturing sector: Digital transformation and sustainable practices. International
+Journal of Science and Research Archive, 12(2), 129-141.
+https://doi.org/10.30574/ijsra.2024.12.2.1217
+Dudovskiy, J. (2022, August 17). IKEA Value Chain Analysis. Business Research
+Methodology. Retrieved August 6, 2024, from
+https://research-methodology.net/ikea-value-chain-analysis/
+Herman Miller (2024). Who we are. Retrieved August 6, 2024, from
+https://www.hermanmiller.com/about/
+12
+Joel, O. S., Oyewole, A., Odunaiya, O. G., & Soyombo, O. T. (2024). LEVERAGING
+ARTIFICIAL INTELLIGENCE FOR ENHANCED SUPPLY CHAIN
+OPTIMIZATION: A COMPREHENSIVE REVIEW OF CURRENT PRACTICES
+AND FUTURE POTENTIALS. International Journal of Management &
+Entrepreneurship Research, 6(3), 707-721. https://doi.org/10.51594/ijmer.v6i3.882
+Lawrence, P. R. (1969). How to Deal with Resistance to Change. Harvard Business Review.
+https://hbr.org/1969/01/how-to-deal-with-resistance-to-change
+Minute Tools Content Team (2021, February 13). Kotter's 8-Step Change Model. Minute
+Tools. Retrieved August 6, 2024, from
+https://expertprogrammanagement.com/2021/02/kotters-8-step-change-model/
+Mittal, A., Cocoual, C., Erriquez, M., & Liakopoulou, T. (2023, June 13). Revolutionizing
+procurement: Leveraging data and AI for strategic advantage. McKinsey & Company.
+Retrieved August 6, 2024, from
+https://www.mckinsey.com/capabilities/operations/our-insights/revolutionizing-procur
+ement-leveraging-data-and-ai-for-strategic-advantage
+Olaoye, F., & Potter, K. (2024). Cultivating a Culture of Innovation. EDUCATIO Journal of
+Education.
+https://www.researchgate.net/publication/379823852_Cultivating_a_Culture_of_Inno
+vation
+Oracle (2024). What is Digital Transformation? Retrieved August 6, 2024, from
+https://www.oracle.com/ca-en/cloud/digital-transformation/
+Ozturk, Z. K. (2020). Inventory Management in Supply Chains. Supply Chain Management,
+13
+107-135.
+https://www.researchgate.net/publication/356085653_Inventory_Management_in_Sup
+ply_Chains
+ProductPlan (2024). Business Transformation. Retrieved August 6, 2024, from
+https://www.productplan.com/glossary/business-transformation/
+Rame, R., Purwanto, P., & Sudarno, S. (2024). Transforming The Furniture Industry in The
+Digital Age. Jurnal Riset Teknologi Pencegahan Pencemaran Industri, 14(3), 53-69.
+https://doi.org/10.21771/jrtppi.2023.v14.no3.p53-69
+Stern, R., & Ziegler, M. (2013). Are you ready for the digital value chain? SUPPLY CHAIN
+MINDED. Retrieved August 6, 2024, from
+https://supplychainminded.com/are-you-ready-for-the-digital-value-chain/
+Sriramineni, R. (2018, January 30). REARRANGE YOUR FURNITURE BUSINESS WITH
+ENTERPRISE RESOURCE PLANNING. RheinBrücke IT Consulting. Retrieved
+August 6, 2024, from
+https://blog.rheincs.com/rearrange-your-furniture-business-with-enterprise-resource-p
+lanning/
+The Proof of AIgarism
+14
+15
+16
+17
+18
+19
+20
+21

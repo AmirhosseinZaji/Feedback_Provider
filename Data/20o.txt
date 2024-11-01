@@ -1,0 +1,103 @@
+Group Online Discussion Post 2- Role of Artificial Intelligence and Machine Learning in Digital Transformation
+
+ 
+
+Group 5
+
+Himani Dahiwale (2307068)
+
+Simen Dodhia (2238522)
+
+Suraj Sukhdeo Sanap (2232309)
+
+Vineeta Sharma (2313382)
+
+University Canada West
+
+CMPT 641: Digital Transformation (HBD-SUMMER24-17)
+
+Amirhossein Zaji
+
+August 29, 2024
+
+ 
+
+ 
+
+ 
+
+Introduction
+
+Transportation facilities have made the movement of goods and people possible around the world, thus serving a big deal in the economy. The need for an ideal and efficient transportation system has raised above anything, which makes the industry innovate to meet them. The industry has entered a digital revolution with the advent of and use cases of enterprise technology like Artificial Intelligence (AI) and Machine Learning (ML). I talked about the impact of AI and ML on efficiency, safety and sustainability (see: Few dimensions to explore), which was very related to transport hard problems.
+
+
+Overview: AI and ML in Transportation
+
+
+AI and ML have end up critical additives of the transportation enterprise’s virtual transformation. These technologies are implemented in various regions, consisting of predictive maintenance, course optimization, self sufficient vehicles, and site visitors’ management. By leveraging good sized amounts of information, AI and ML algorithms can become aware of styles, make predictions, and automate processes that were previously labor-intensive or impossible (Appinventiv, 2024).
+
+
+
+A digital illustration of a road with cars and a droneDescription automatically generated
+
+Image source: DALL.E
+
+
+Predictive Maintenance
+
+One of the maximum sizable programs of AI and ML in transportation is predictive renovation. Traditional maintenance schedules are regularly based on constant durations, that could cause both needless upkeep or surprising breakdowns. AI-pushed predictive upkeep uses statistics from sensors and IoT devices to reveal the actual-time condition of cars and infrastructure. This technique enables transportation companies to count on failures earlier than they occur, lowering downtime and preservation fees (Petersen et al., 2021).
+
+
+
+A white background with black textDescription automatically generated
+
+ Note. Filipsson, F., & Filipsson, F. (2024, July 25). Top 15 Real-Life Use cases for AI in Transportation industry. Retrieved from: https://redresscompliance.com/top-15-real-life-use-cases-for-ai-in-transportation-industry/#:~:text=Self%2Ddriving%20cars%20and%20trucks,for%20those%20unable%20to%20drive.
+
+
+Route Optimization and Traffic Management
+
+
+AI and ML also are remodeling direction optimization and site visitors’ management. Advanced algorithms analyze real-time information from GPS, site visitors’ cameras, and social media to predict traffic conditions and optimize routes. This generation not simplest complements the efficiency of transportation networks but also reduces gas consumption and emissions by way of minimizing idle time and detours. AI-powered site visitors management structures can also adapt to converting situations, such as accidents or roadwork, enhancing typical site visitors go with the flow and safety (PTV Group, 2024).
+
+
+
+A close-up of a white backgroundDescription automatically generated
+
+ Note. Filipsson, F., & Filipsson, F. (2024, July 25). Top 15 Real-Life Use cases for AI in Transportation industry. Retrieved from: https://redresscompliance.com/top-15-real-life-use-cases-for-ai-in-transportation-industry/#:~:text=Self%2Ddriving%20cars%20and%20trucks,for%20those%20unable%20to%20drive.
+
+Autonomous Vehicles
+
+Autonomous automobiles constitute one of the maximum futuristic applications of AI and ML in transportation. These automobiles rely upon sophisticated AI algorithms to interpret statistics from cameras, radar, and lidar to navigate roads appropriately. While completely self-reliant motors are still in development, AI-pushed features along with adaptive cruise manipulate, lane-keeping assistance, and automatic parking are already enhancing street safety and driving convenience. As AI and ML technology retain to improve, the capability for reducing human mistakes and increasing transportation performance grows (Appinventiv, 2024)
+
+
+A close up of textDescription automatically generated
+
+ Note. Filipsson, F., & Filipsson, F. (2024, July 25). Top 15 Real-Life Use cases for AI in Transportation industry. Retrieved from: https://redresscompliance.com/top-15-real-life-use-cases-for-ai-in-transportation-industry/#:~:text=Self%2Ddriving%20cars%20and%20trucks,for%20those%20unable%20to%20drive.
+
+
+A self driving carDescription automatically generated with medium confidence
+
+Image Source: Waymo
+
+
+Challenges and Considerations
+
+Although AI and ML have exciting prospects in transportation, several challenges persist. Top 1. Records privacy and security concerns big data is also being produced by transportation systems including sensitive information about vehicle routes, freight & passenger transactions. It is vital that this data be stored and processed properly to prevent breaches in addition to unauthorized get entry too (Petersen et al., 2021). The barrier typically results from the need to make significant infrastructure and training investments in order to deploy AI technologies at scale, something that can be cost-prohibitive for smaller transportation companies.
+
+Conclusion
+
+AI and ML are playing a pivotal position in the virtual transformation of the transportation industry. These technologies are enhancing performance, protection, and sustainability by way of enabling predictive upkeep, optimizing routes, and paving the manner for self sufficient motors. However, to fully recognise the blessings of AI and ML, the industry ought to cope with demanding situations related to data security, infrastructure, and group of workers readiness. As the transportation industry continues to adapt, AI and ML will absolutely be at the vanguard of innovation, riding the following wave of advancements within the subject.
+
+ 
+
+ 
+
+References
+
+Appinventiv. (2024). How AI is reshaping the transportation industry. Retrieved from https://appinventiv.com/blog/ai-in-transportation/#:~:text=Through%20machine%20learning%20and%20advanced,count%20in%20the%20transportation%20sector.
+
+Filipsson, F., & Filipsson, F. (2024, July 25). Top 15 Real-Life Use cases for AI in Transportation industry. Redress Compliance - Just another WordPress site. https://redresscompliance.com/top-15-real-life-use-cases-for-ai-in-transportation-industry/#:~:text=Self%2Ddriving%20cars%20and%20trucks,for%20those%20unable%20to%20drive.
+
+Petersen, T., Hagstrom, A., & Freiholtz, F. (2021). The impact of AI on the transportation sector. Transportation Research Interdisciplinary Perspectives, 9, 100352. https://doi.org/10.1016/j.trip.2021.100352
+
+PTV Group. (2024). Artificial Intelligence in transportation: The future is now. Retrieved from https://www.ptvgroup.com/en/application-areas/ai-in-transportation

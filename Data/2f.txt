@@ -1,0 +1,6 @@
+"Blockchain in healthcare—sounds like doctors will soon be prescribing algorithms! Just remember, an apple a day keeps the hackers away!"
+
+Now for the feedback:
+
+Clear and concise: You’ve hit all the key applications well. Nice job organizing the sections.
+Next step: Expand a bit on the regulatory compliance challenges. You mentioned HIPAA and GDPR, but offering an example of how these regulations clash with blockchain tech would add depth to your analysis.

@@ -1,0 +1,54 @@
+Blockchains in Healthcare
+
+Maria Haseebuddin Mir (2232348)
+
+University Canada West
+
+CPMT 641: Digital Transformation
+
+Professor Amirhossein Zaji
+
+12th September, 2024
+
+ 
+
+Introduction
+
+Blockchain is a distributed electronic ledger technology classified under modern technologies with increased security in the storage and transfer of information. Indeed it is not only confined to cryptocurrency since it can cause its effect in different areas including the healthcare sector. As for the utilization of blockchain technology in healthcare, it is claimed that it will revolutionize how patient records will be shared because of the transparency, privacy and security concerns of the shared record. The following essay is devoted to describing the chances, benefits, and failures of the blockchain in the sphere of healthcare.
+
+Applications of Blockchain in Healthcare
+
+Healthcare applications, especially those surrounding blockchain usage in the storage of electronic health records, have been growing. Blockchain will solve issues related to traditional EHR storage systems' fragmentation and their propensity to get hacked. Using this technology, blockchain will allow every authorized health professional to access any patient record anywhere instantly, adding efficiency but making due considerations towards ensuring that there is a layer of protection over a patient's privacy. Also, the blockchain treats drug distribution by tracing every stage in the chain of supply for authentication to handle drugs properly. This in turn creates accountability, traceability, and trust among the stakeholders.
+
+Benefits of Blockchain in Healthcare
+
+The first proposed advantage of blockchain in the healthcare industry is security improvement. Since medical data is highly sensitive the feature to encrypt the patient data to prevent any unauthorized access or interference is essential. This makes it difficult for any one party to gain control of the information on the blockchain hence making it hard for hackers to breach it (Ekblaw et al., 2016). Every transaction has a hash of the previous transaction, and is incredibly difficult for someone to modify the information.
+
+Moreover, through blockchain, integration between other healthcare entities, departments, and networks is promoted. Because the patient record is maintained on a shared electronic medical record network, the healthcare provider does not need to refer to separate systems to find information. This saves time which could otherwise have been spent waiting for the results from a laboratory or from another healthcare professional who may have evaluated the client. In addition, patients have improved ownership of their health data and therefore they can grant or withdraw consent on their data as they please.
+
+Obstacles to Blockchain Adoption in Healthcare
+
+            However, there are circumstances in which blockchain in health situations is very limited. It has, however, been to the downside that the technology is not advanced enough to support large-scale operations. Blockchain systems are highly computation-intensive, and the increase in the number of transactions, adds to the load on the system. This could lead to slow operations and become costly hence not being largely adopted into large health care organizations.
+
+Another challenge is the regulatory and standards requirements set up by an organization. The health sector itself is very sensitive and regulated; it includes even the HIPAA in the United States. Blockchain, then, must meet such legal requirements of privacy while still keeping the core architecture that is, basically, decentralized yet transparent. Moreover, the implementation of blockchains in healthcare may be quite difficult with the structure as it is now, needing huge capital investments in infrastructures and personnel.
+
+Conclusion
+
+The blockchain is vital in the revolution of the healthcare system through improving security, attaining unity across the networks, and ensuring the validity of drugs across the chain. There are, however, problems like scale and compliance issues that need to be dealt with for the adoption of blockchains in healthcare systems. Since technologies are developing, it was expected that blockchain would be a considerable part of healthcare development in the future, which means it can reveal increased effectiveness compared to the current system, focusing on the patients.
+
+References:
+
+Azaria, A. (n.d.). A Case Study for Blockchain in Healthcare Prototype for electronic health records and
+
+medical research data. [online] MIT Media Lab. Available at: https://www.media.mit.edu/publications/medrec-whitepaper/.
+
+Scirp.org. (2016). Mettler, M. (2016) Blockchain Technology in Healthcare The Revolution Starts Here. IEEE 18th
+
+International Conference on e-Health Networking, Applications and Services (Healthcom), Piscataway, 14-16 September 2016, 1-3. - References - Scientific Research Publishing. [online] Available at: https://www.scirp.org/reference/referencespapers?referenceid=3003879 [Accessed 12 Sep. 2024].
+
+Yue, X., Wang, H., Jin, D., Li, M. and Jiang, W. (2016). Healthcare Data Gateways: Found Healthcare Intelligence
+
+On Blockchain with Novel Privacy Risk Control. Journal of Medical Systems, 40(10). doi:
+
+https://doi.org/10.1007/s10916-016-0574-6.
+

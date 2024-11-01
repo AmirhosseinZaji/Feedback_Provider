@@ -1,0 +1,115 @@
+Online Group 2 Discussion 1 
+
+Aastha Jatinkumar Patel (2234665) 
+
+Maria Haseebuddin Mir (2232348) 
+
+Namanpreet Jhatia (2319590) 
+
+Namuun Purevbayar (2315169) 
+
+Vismaya Vijayan (2303749) 
+
+University Canada West 
+
+CMPT 641: Digital Transformation (HBD-SUMMER24-17) 
+
+Prof. Amirhossein Zaji 
+
+August 12, 2024 
+
+Introduction 
+
+Trader Joe's, one of the most famous nationwide brands with a network of neighbourhood grocers, has always put much emphasis on offering customers value and quality shopping experiences. Known for offering high-end, non-promotional items at low prices and with reduced use of coupons or membership, Trader Joe’s sustains the sale of private brands. To overcome existing business deficiencies, the Technological department has suggested expanding its use of information technologies to improve its operations and, accordingly, the worth of its value chain. 
+
+Current Porter’s Value Chain model: 
+
+Suppliers enable negotiation for reduced prices for unique products while using just-in-time inventory techniques to maintain product freshness and reduce the need for large warehouses (Shaw, A. A., 2024). They cooperate with different manufacturing companies to expand product choices reduce costs and utilize a centralized distribution model for efficient delivery and inventory circulation. Furthermore, they focus on in-store sales through various marketing campaigns and prioritize outstanding customer service (Shaw, A. A., 2024). Trader Joe's also employs a highly decentralized support model for store managers, emphasizes employee development, and invests in innovative retail technologies. Additionally, the company maintains a meticulous approach to selecting reliable vendors. 
+
+ 
+
+ 
+
+ 
+
+Business Gaps & Proposed State-of-the-Art Technologies With it’s Reasons: 
+
+Transparency in Supply Chain: 
+
+The supply chain needs to be more efficient. 
+
+Implement the blockchain technologies. 
+
+Reason: Provides a secure, transparent ledger, enhancing product authenticity and ethical sourcing, which boosts customer trust. 
+
+Optimization of Inventory Management: 
+
+Demand forecasting and inventory management should be strengthened to cut down on waste and reduce shortages 
+
+Machine Learning Algorithms and AI. 
+
+Reason: Improves demand forecasting and reduces waste, enhancing operational efficiency.  
+
+Personalized Customer Experience: 
+
+Lack of personalized customer interactions. 
+
+Implementing Customer Relationship Management (CRM) with the help of AI. 
+
+Reason: Enhances customer experience through personalized recommendations and services, driving satisfaction and retention (What Is CRM? | a Definition by Salesforce, n.d.). 
+
+Training and Development Program for Employees: 
+
+The need for employee training to adapt proposed innovations is crucial. 
+
+Design new training programs with the help of technologies like Virtual Reality and Augmented Reality. 
+
+Reason: Provides immersive training, improving employee performance and reducing turnover. 
+
+Online Presence: 
+
+Limited online presence. 
+
+A user-friendly website and mobile applications can be introduced in the initial stages. 
+
+Reason: Will expand digital presence, tapping into e-commerce to reach more customers and increase sales. 
+
+New Porter’s Value Chain Model: 
+
+ 
+
+Estimated suggested technologies added margin to the company's value chain: 
+
+ 
+
+(Source: by author)
+
+Conclusion: 
+
+Implementing and monitoring state-of-the-art technologies can improve the rating of the company’s operation, employees’ output, customer satisfaction, and sales. An analysis of the projected financials shows that the incorporation of these technologies is congruent with Trader Joe’s mission of offering its customers tremendous value and environment, thereby solidifying it as a strategic and profitable investment that will help Trader Joe's continuously fortify the market. This decision not only strengthens the company’s status in the sphere of competitive retail but also remains in line with the company’s ongoing mission to offer great value & to provide a unique shopping experience. 
+
+References 
+
+Blockchain for the supply chain - IBM Blockchain. (n.d.). 
+
+https://www.ibm.com/blockchain-supply-chain 
+
+Global retail e-commerce sales 2014-2027 | Statista. (2024, May 22). Statista. 
+
+https://www.statista.com/statistics/379046/worldwide-retail-e-commerce-sales/#:~:text=In%202023%2C%20global%20retail%20e,eight%20trillion%20dollars%20by%202027. 
+
+PricewaterhouseCoopers. (n.d.). Seeing is believing. PwC. https://www.pwc.com/gx/en/industries/technology/publications/economic-impact-of-vr-ar.html 
+
+Shaw, A. A. (2024, June 11). Value chain analysis of Trader Joe’s. SCM Insight. 
+
+https://scminsight.com/value-chain-analysis-of-trader-joes/ 
+
+The state of AI in 2020. (2020, November 18). McKinsey & Company. https://www.mckinsey.com/capabilities/quantumblack/our-insights/global-survey-the-state-of-ai-in-2020 
+
+Trader Joe’s. About us. (n.d.). 
+
+https://www.traderjoes.com/home/about-us 
+
+What is CRM? | A Definition by Salesforce. (n.d.). Salesforce. 
+
+https://www.salesforce.com/ca/crm/what-is-crm/#:~:text=This%20is%20a%20simple%20definition,relationships%20to%20grow%20your%20business.  
