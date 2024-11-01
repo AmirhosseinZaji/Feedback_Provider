@@ -1,107 +1,115 @@
 # AI-Powered Teaching Assistant for Faculty
 
 ## Overview
-This tool helps faculty members generate consistent, personalized feedback on student assignments using OpenAI's GPT models. It follows a specific professor-style feedback template that includes:
-- An engaging, topic-relevant opening joke
-- Positive reinforcement of strong points
-- Constructive suggestions for improvement
-- Consistent tone and format
+This tool helps faculty members generate consistent, personalized feedback on student assignments using OpenAI's GPT models. It follows a specific professor-style feedback template that includes an engaging, topic-relevant opening joke, positive reinforcement of strong points, constructive suggestions for improvement, and a consistent tone and format.
 
 ## Project Structure
-project/
-├── Data/ # Student assignments (raw text)
-├── Refined_Data/ # Generated feedback (JSON format)
-├── fine_tune.py # Fine-tuning script
-├── jsonl_creator.py # JSONL creation script
-├── system_role.txt # Feedback style rules
-├── .env # Environment variables
-└── README.md # This file
-
+The project is organized as follows:
+- `Data/`: Contains student assignments in raw text format.
+- `Refined_Data/`: Stores generated feedback in JSON format.
+- `fine_tune.py`: Script for fine-tuning the model.
+- `jsonl_creator.py`: Script for creating JSONL files.
+- `system_role.txt`: Contains feedback style rules.
+- `.env`: Stores environment variables.
+- `README.md`: This documentation file.
 
 ## Prerequisites
-You'll need:
-1. A computer with internet access
-2. Python installed (Download from [python.org](https://python.org))
-3. An OpenAI API key
-4. Basic comfort with:
-   - Creating/saving text files
-   - Running simple commands
-   - Managing folders
+To use this tool, you will need a computer with internet access, Python installed (which can be downloaded from [python.org](https://python.org)), an OpenAI API key, and basic comfort with creating and saving text files, running simple commands, and managing folders.
 
 ## Step-by-Step Setup Guide
 
 ### 1. Get Your OpenAI API Key (5-10 minutes)
-1. Go to [OpenAI's website](https://openai.com)
-2. Click "Sign Up" (top right)
-3. Create an account
-4. Go to "API Keys" section
-5. Click "Create New Key"
-6. Copy and save the key securely
+
+An API key is essential because it authenticates your requests to OpenAI's servers, tracks your usage and billing, ensures secure access to the GPT models, and enables rate limiting and quota management.
+
+- Go to [OpenAI's website](https://openai.com)
+- Click "Sign Up" (top right)
+- Create an account
+- Go to "API Keys" section
+- Click "Create New Key"
+- Copy and save the key securely
+
+⚠️ Important Security Notes:
+Keep your API key private, never commit it to public repositories, rotate keys periodically for security, and monitor usage to prevent unauthorized access.
 
 ### 2. Install Required Software (10-15 minutes)
-1. Download Python from [python.org](https://python.org)
-2. During installation:
-   - Check "Add Python to PATH"
-   - Click "Install Now"
+
+Installing Python is necessary because it is the primary programming language for the tool, providing access to OpenAI's API library, handling text processing and file operations, and managing environment variables securely.
+
+- Download Python from [python.org](https://python.org)
+- During installation:
+  - Check "Add Python to PATH"
+  - Click "Install Now"
+
+⚠️ Installation Notes:
+Requires admin privileges, may need to restart computer, verify installation with `python --version`, and check PATH environment if commands fail.
 
 ### 3. Set Up the Project (15-20 minutes)
 
+Setting up the project is crucial for organizing code and data, managing dependencies, securing sensitive information, and ensuring consistent operation.
+
 #### Install Required Packages:
 Open Terminal (Mac) or Command Prompt (Windows):
-
-bash
+```bash
 pip install openai python-dotenv
-
+```
 
 #### Configure API Key:
-1. Create a file named `.env` in the project folder
-2. Add your OpenAI key:
-
-OPENAI_API_KEY=your_key_here
+- Create a file named `.env` in the project folder
+- Add your OpenAI key:
+  ```
+  OPENAI_API_KEY=your_key_here
+  ```
 
 ### 4. Prepare Student Assignments (5-10 minutes per batch)
 
-1. Create a folder named `Data` (if not exists)
-2. Save student assignments as text files:
-   - One assignment per file
-   - Use consistent naming (e.g., "student1.txt")
-   - Plain text format (.txt)
+Proper preparation ensures consistent processing, accurate feedback generation, efficient batch handling, and error prevention.
+
+- Create a folder named `Data` (if not exists)
+- Save student assignments as text files:
+  - One assignment per file
+  - Use consistent naming (e.g., "student1.txt")
+  - Plain text format (.txt)
 
 ### 5. Configure Feedback Style (Optional)
 
-The `system_role.txt` file contains the feedback style rules. You can customize:
-- Joke style and tone
-- Feedback structure
-- Language preferences
+Configuring the feedback style allows for a personalized feedback approach, consistent tone and format, customized learning experience, and brand alignment.
 
-Example from current system:
-
+The `system_role.txt` file contains:
+```
 Professor's Feedback Style Rules:
-Start with a topic-related joke
-Highlight good areas (concise, encouraging)
-Address weak areas (directive, straightforward)
-Keep overall tone conversational and playful
+- Start with a topic-related joke
+- Highlight good areas (concise, encouraging)
+- Address weak areas (directive, straightforward)
+- Keep overall tone conversational and playful
+```
 
 ### 6. Generate Feedback
 
-1. Create JSONL file:
+This process involves converting raw data to a structured format, training the model on your style, and generating consistent feedback.
 
-bash
-python jsonl_creator.py
-
-2. Fine-tune the model:
-
-bash
-python fine_tune.py
-
+- Create JSONL file:
+  ```bash
+  python jsonl_creator.py
+  ```
+- Fine-tune the model:
+  ```bash
+  python fine_tune.py
+  ```
 
 ### 7. Review Generated Feedback
+
+Reviewing the generated feedback is critical for quality assurance, adding a personal touch, catching errors, and ensuring continuous improvement.
+
 - Find feedback files in `Refined_Data` folder
 - Each file includes:
   - Opening joke
   - Positive highlights
   - Improvement suggestions
   - Overall assessment
+
+⚠️ Review Guidelines:
+Check for accuracy, ensure appropriate tone, verify completeness, and add personal insights.
 
 ## Best Practices
 
@@ -135,14 +143,7 @@ Common issues and solutions:
    - Ensure proper folder structure
 
 ## Support
-For technical issues:
-- Check OpenAI documentation
-- Review error logs
-- Contact system administrator
+For technical issues, consult OpenAI documentation, review error logs, or contact your system administrator.
 
 ## Updates & Maintenance
-- Check for updates monthly
-- Backup custom templates
-- Update API key as needed
-
-Remember: This tool is designed to assist, not replace, your expertise. Always review and adjust the generated feedback before sending to students.# Feedback_Provider
+Check for updates monthly, backup custom templates, and update the API key as needed. Remember, this tool is designed to assist, not replace, your expertise. Always review and adjust the generated feedback before sending it to students.
